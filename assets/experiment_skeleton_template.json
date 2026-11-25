@@ -1,0 +1,21 @@
+{
+  "paper_id": "P001",
+  "skeleton_version": "v1",
+  "experiments": [
+    {
+      "experiment_id": "P001-E01",
+      "object_scope": "[研究对象/市场/样本族]",
+      "target_definition": "[核心目标及数学或概念口径]",
+      "evaluation_design": "[主评估设计]",
+      "horizons_supported": [],
+      "horizons_failed": [],
+      "samples": [],
+      "inputs": [],
+      "controls": [],
+      "baselines": [],
+      "metrics": [],
+      "evidence_ids": ["EV001"],
+      "condition_and_limits": "[保留相反结果、条件和证据上限]"
+    }
+  ]
+}

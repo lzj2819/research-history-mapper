@@ -1,0 +1,39 @@
+{
+  "snapshot_id": "SNAP001",
+  "run_id": "RUN001",
+  "scope_cutoff": "[检索截止日]",
+  "dictionary_version": "[字典版本]",
+  "matrices": [
+    {
+      "matrix_id": "A",
+      "row": "[研究问题]",
+      "column": "[方法家族]",
+      "status": "covered",
+      "paper_ids": ["P001"],
+      "experiment_ids": ["P001-E01"],
+      "evidence_ids": ["EV001"],
+      "targeted_search_record": null
+    }
+  ],
+  "paper_cards": [
+    {
+      "paper_id": "P001",
+      "experiment_ids": ["P001-E01"],
+      "claims": [
+        {
+          "text": "[主结论]",
+          "conditions": "[对象、目标、样本、期限、基线与指标]",
+          "evidence_ids": ["EV001"]
+        }
+      ]
+    }
+  ],
+  "report_claims": [
+    {
+      "claim_id": "CL001",
+      "text": "[报告实质主张]",
+      "paper_ids": ["P001"],
+      "evidence_ids": ["EV001"]
+    }
+  ]
+}

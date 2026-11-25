@@ -1,0 +1,14 @@
+{
+  "record_id": "R001",
+  "object_id": "[paper_id/experiment_id/edge_id]",
+  "field_id": "[字段或关系]",
+  "value": "[候选值]",
+  "role": "[目标/输入/控制/基线，如适用]",
+  "experiment_id": "P001-E01",
+  "evidence_ids": ["EV001"],
+  "decision_status": "candidate",
+  "original_decision": "[原判]",
+  "revised_decision": "[修改，如无则留空]",
+  "reason": "[裁决理由]",
+  "decision_method": "[确定性规则/研究者判定/其他]"
+}

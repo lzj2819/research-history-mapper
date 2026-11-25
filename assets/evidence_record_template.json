@@ -1,0 +1,16 @@
+{
+  "evidence_id": "EV001",
+  "paper_id": "P001",
+  "experiment_id": "P001-E01",
+  "document_version": "[预印本/作者稿/正式版及版本号]",
+  "source_path_or_url": "[本地相对路径或稳定链接]",
+  "physical_page": null,
+  "journal_page": null,
+  "section": "[章节]",
+  "formula": "[公式，如适用]",
+  "table": "[表格，如适用]",
+  "row_column": "[必要的行列]",
+  "quote_or_coordinate": "[原文摘录或定位坐标]",
+  "match_status": "pending",
+  "supports": "[支持的字段、关系或结论]"
+}
